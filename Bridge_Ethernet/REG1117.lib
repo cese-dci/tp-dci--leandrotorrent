@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# REG1117
+#
+DEF REG1117 IC 0 40 Y Y 1 L N
+F0 "IC" -300 225 50 H V L BNN
+F1 "REG1117" -200 100 50 H V L BNN
+F3 "Unavailable" 0 0 50 H I L BNN
+F4 "None" 0 0 50 H I L BNN
+F5 "Texas Instruments" 0 0 50 H I L BNN
+F6 "SOT-223-4 Texas Instruments" 0 0 50 H I L BNN
+F7 "REG1117" 0 0 50 H I L BNN
+F8 "LDO Regulator Pos 1.25V to 13.5V 0.8A 4-Pin_3+Tab_ SOT-223 Tube" 0 0 50 H I L BNN
+$FPLIST
+ SOT223
+ DD-3
+$ENDFPLIST
+DRAW
+P 2 0 0 16 -300 -300 300 -300 N
+P 2 0 0 16 300 -300 300 200 N
+P 2 0 0 16 300 200 -300 200 N
+P 2 0 0 16 -300 200 -300 -300 N
+X VIN 3 -500 0 200 R 40 40 0 0 I 
+X VOUT 2 500 0 200 L 40 40 0 0 O 
+X GND 1 0 -500 200 U 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

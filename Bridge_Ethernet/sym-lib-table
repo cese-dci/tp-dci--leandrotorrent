@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name REG1117)(type Legacy)(uri ${KIPRJMOD}/REG1117.lib)(options "")(descr ""))
+  (lib (name Micro-rescue)(type Legacy)(uri ${KIPRJMOD}/Micro-rescue.lib)(options "")(descr ""))
+  (lib (name Bridge_Ethernet-rescue)(type Legacy)(uri ${KIPRJMOD}/Bridge_Ethernet-rescue.lib)(options "")(descr ""))
+)
