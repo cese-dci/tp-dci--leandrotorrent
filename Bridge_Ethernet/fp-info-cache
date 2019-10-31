@@ -1,4 +1,11 @@
-16309900598832717
+16317759851313414
+24LC256-E_SN
+SOIC127P600X175-8N
+
+
+0
+8
+8
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49622,6 +49629,20 @@ Yellow 5381 Series LED
 0
 2
 2
+MAX3222CDW
+SOIC127P1032X265-20N
+
+
+0
+20
+20
+MSP430F5438A
+PZ100
+*** TI: PZ *** JEDEC: S-PQFP-G100 *** 100 PINS ***
+
+0
+100
+100
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -63818,6 +63839,20 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
+REG1117
+DD-3
+<b>DPAC</b>
+
+0
+3
+3
+REG1117
+SOT223
+<b>Smal Outline Transistor</b>
+
+0
+4
+4
 RF
 Skyworks_SKY65404-31
 http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf
@@ -66457,6 +66492,13 @@ rotary encoder
 0
 5
 4
+SOIC127P600X175-8N
+SOIC127P600X175-8N
+
+
+0
+8
+8
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
