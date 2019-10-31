@@ -22,7 +22,7 @@ AR Path="/5D952D6C" Ref="U13"  Part="1"
 AR Path="/5DA0E37F/5D952D6C" Ref="U13"  Part="1" 
 F 0 "U13" H 3475 7665 50  0000 C CNN
 F 1 "MSP430F5438A" H 7950 5700 50  0001 L BNN
-F 2 "PZ100" H 6900 5650 50  0001 L BNN
+F 2 "MSP430F5438A:PZ100" H 6900 5650 50  0001 L BNN
 F 3 "Texas Instruments" H 7950 5800 50  0001 L BNN
 F 4 "16-bit ultra-low-power microcontroller, 256kb flash, 16kb ram, 12 bit adc, 4 uscis, 32-bit hw multi" H 7300 5550 50  0001 L BNN "Field4"
 F 5 "None" H 7300 5700 50  0001 L BNN "Field5"

@@ -4,7 +4,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 9
+Sheet 5 9
 Title "Bridge Ethernet. WizNET."
 Date "2019-10-02"
 Rev "v1.0"
@@ -20,7 +20,7 @@ U 1 1 5D950B47
 P 5500 3550
 F 0 "J1" H 5500 3150 50  0000 L CNN
 F 1 "Conn_01x06" H 5150 3050 50  0000 L CNN
-F 2 "" H 5500 3550 50  0001 C CNN
+F 2 "Connector_PinSocket_1.27mm:PinSocket_1x06_P1.27mm_Vertical" H 5500 3550 50  0001 C CNN
 F 3 "~" H 5500 3550 50  0001 C CNN
 	1    5500 3550
 	1    0    0    -1  
@@ -31,7 +31,7 @@ U 1 1 5D95175E
 P 6100 3550
 F 0 "J2" H 6150 3150 50  0000 C CNN
 F 1 "Conn_01x06" H 6000 3050 50  0000 C CNN
-F 2 "" H 6100 3550 50  0001 C CNN
+F 2 "Connector_PinSocket_1.27mm:PinSocket_1x06_P1.27mm_Vertical" H 6100 3550 50  0001 C CNN
 F 3 "~" H 6100 3550 50  0001 C CNN
 	1    6100 3550
 	-1   0    0    -1  

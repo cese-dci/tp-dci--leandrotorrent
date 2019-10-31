@@ -486,7 +486,7 @@ AR Path="/5D9FFB34/5DBF2B33" Ref="J?"  Part="1"
 AR Path="/5DBF2B33" Ref="J5"  Part="1" 
 F 0 "J5" H 778 3230 50  0000 L CNN
 F 1 "Conn_01x04_Female" H 778 3185 50  0001 L CNN
-F 2 "" H 750 3300 50  0001 C CNN
+F 2 "Connector_PinSocket_1.27mm:PinSocket_1x04_P1.27mm_Vertical" H 750 3300 50  0001 C CNN
 F 3 "~" H 750 3300 50  0001 C CNN
 	1    750  3300
 	-1   0    0    -1  
@@ -499,7 +499,7 @@ AR Path="/5D9FFB34/5DBF2B39" Ref="J?"  Part="1"
 AR Path="/5DBF2B39" Ref="J6"  Part="1" 
 F 0 "J6" H 828 4280 50  0000 L CNN
 F 1 "Conn_01x04_Female" H 828 4235 50  0001 L CNN
-F 2 "" H 800 4350 50  0001 C CNN
+F 2 "Connector_PinSocket_1.27mm:PinSocket_1x04_P1.27mm_Vertical" H 800 4350 50  0001 C CNN
 F 3 "~" H 800 4350 50  0001 C CNN
 	1    800  4350
 	-1   0    0    -1  
