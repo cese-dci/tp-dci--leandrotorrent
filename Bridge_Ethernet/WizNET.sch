@@ -15,32 +15,32 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector_Generic:Conn_01x06 J1
+L Connector_Generic:Conn_01x06 J3
 U 1 1 5D950B47
 P 5500 3550
-F 0 "J1" H 5500 3150 50  0000 L CNN
+F 0 "J3" H 5500 3150 50  0000 L CNN
 F 1 "Conn_01x06" H 5150 3050 50  0000 L CNN
-F 2 "Connector_PinSocket_1.27mm:PinSocket_1x06_P1.27mm_Vertical" H 5500 3550 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 5500 3550 50  0001 C CNN
 F 3 "~" H 5500 3550 50  0001 C CNN
 	1    5500 3550
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x06 J2
+L Connector_Generic:Conn_01x06 J4
 U 1 1 5D95175E
 P 6100 3550
-F 0 "J2" H 6150 3150 50  0000 C CNN
+F 0 "J4" H 6150 3150 50  0000 C CNN
 F 1 "Conn_01x06" H 6000 3050 50  0000 C CNN
-F 2 "Connector_PinSocket_1.27mm:PinSocket_1x06_P1.27mm_Vertical" H 6100 3550 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 6100 3550 50  0001 C CNN
 F 3 "~" H 6100 3550 50  0001 C CNN
 	1    6100 3550
 	-1   0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR040
+L power:GND #PWR026
 U 1 1 5D9546E3
 P 5100 2950
-F 0 "#PWR040" H 5100 2700 50  0001 C CNN
+F 0 "#PWR026" H 5100 2700 50  0001 C CNN
 F 1 "GND" H 5105 2777 50  0000 C CNN
 F 2 "" H 5100 2950 50  0001 C CNN
 F 3 "" H 5100 2950 50  0001 C CNN
@@ -63,10 +63,10 @@ Wire Wire Line
 Wire Wire Line
 	5100 3850 5300 3850
 $Comp
-L power:GND #PWR041
+L power:GND #PWR027
 U 1 1 5D955BF4
 P 6400 2950
-F 0 "#PWR041" H 6400 2700 50  0001 C CNN
+F 0 "#PWR027" H 6400 2700 50  0001 C CNN
 F 1 "GND" H 6405 2777 50  0000 C CNN
 F 2 "" H 6400 2950 50  0001 C CNN
 F 3 "" H 6400 2950 50  0001 C CNN
@@ -74,10 +74,10 @@ F 3 "" H 6400 2950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+3.3V #PWR042
+L power:+3.3V #PWR028
 U 1 1 5D955FC4
 P 6750 3200
-F 0 "#PWR042" H 6750 3050 50  0001 C CNN
+F 0 "#PWR028" H 6750 3050 50  0001 C CNN
 F 1 "+3.3V" H 6765 3373 50  0000 C CNN
 F 2 "" H 6750 3200 50  0001 C CNN
 F 3 "" H 6750 3200 50  0001 C CNN
