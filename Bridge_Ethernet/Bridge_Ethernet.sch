@@ -9,7 +9,7 @@ Title "Bridge Ethernet"
 Date "2019-10-11"
 Rev "Bridge Ethernet"
 Comp "Leandro Torrent"
-Comment1 ""
+Comment1 "Revisores: Martín Ribelotta, Miguel del Valle Camino"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -696,6 +696,50 @@ Text Label 8700 5150 2    50   ~ 0
 B_485_3
 Text Label 8700 5250 2    50   ~ 0
 RX_232_3
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5DD37999
+P 9400 1200
+F 0 "H1" H 9500 1246 50  0000 L CNN
+F 1 "MountingHole" H 9500 1155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 9400 1200 50  0001 C CNN
+F 3 "~" H 9400 1200 50  0001 C CNN
+	1    9400 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5DD37BCF
+P 9400 1400
+F 0 "H2" H 9500 1446 50  0000 L CNN
+F 1 "MountingHole" H 9500 1355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 9400 1400 50  0001 C CNN
+F 3 "~" H 9400 1400 50  0001 C CNN
+	1    9400 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5DD37E39
+P 9400 1600
+F 0 "H3" H 9500 1646 50  0000 L CNN
+F 1 "MountingHole" H 9500 1555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 9400 1600 50  0001 C CNN
+F 3 "~" H 9400 1600 50  0001 C CNN
+	1    9400 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5DD37F6A
+P 9400 1800
+F 0 "H4" H 9500 1846 50  0000 L CNN
+F 1 "MountingHole" H 9500 1755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 9400 1800 50  0001 C CNN
+F 3 "~" H 9400 1800 50  0001 C CNN
+	1    9400 1800
+	1    0    0    -1  
+$EndComp
 Wire Bus Line
 	2000 2500 3750 2500
 Wire Bus Line
