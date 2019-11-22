@@ -756,4 +756,37 @@ Wire Bus Line
 	6350 4400 7950 4400
 Wire Bus Line
 	7950 4400 7950 6000
+$Comp
+L Mechanical:Fiducial FID1
+U 1 1 5DD8BA2C
+P 9400 2100
+F 0 "FID1" H 9485 2146 50  0000 L CNN
+F 1 "Fiducial" H 9485 2055 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 9400 2100 50  0001 C CNN
+F 3 "~" H 9400 2100 50  0001 C CNN
+	1    9400 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID2
+U 1 1 5DD8BF4A
+P 9400 2300
+F 0 "FID2" H 9485 2346 50  0000 L CNN
+F 1 "Fiducial" H 9485 2255 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 9400 2300 50  0001 C CNN
+F 3 "~" H 9400 2300 50  0001 C CNN
+	1    9400 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID3
+U 1 1 5DD8F9DD
+P 9400 2500
+F 0 "FID3" H 9485 2546 50  0000 L CNN
+F 1 "Fiducial" H 9485 2455 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 9400 2500 50  0001 C CNN
+F 3 "~" H 9400 2500 50  0001 C CNN
+	1    9400 2500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
